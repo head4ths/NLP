@@ -259,11 +259,11 @@ id,i_dialog,i_utterance,speaker,utterance
 257,35,6,Frannie,"Paul the Wine Guy? Oh yeah, I know Paul."
 258,35,7,Monica,You mean you know Paul like I know Paul?
 259,35,8,Frannie,"Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years."
-260,36,0,Ms. McKenna,"Ok if everyone¡¯s on board, it¡¯s settled, Chandler,   Chandler?"
+260,36,0,Ms. McKenna,"Ok if everyoneâ€™s on board, itâ€™s settled, Chandler,   Chandler?"
 261,36,1,Chandler,Yep.
 262,36,2,Ms. McKenna,Are you on board?
 263,36,3,Chandler,Yes.
-264,36,4,Ms. McKenna,"Then, problem solved. Chandler will be running our office  in Tulsa. You¡¯re gonna love Oklahoma."
+264,36,4,Ms. McKenna,"Then, problem solved. Chandler will be running our office  in Tulsa. Youâ€™re gonna love Oklahoma."
 265,37,0,Ross,Rachel!! Monica!!
 266,37,1,Joey,Come on!
 267,37,2,Ross,I can?t believe this!!
@@ -446,18 +446,18 @@ id,i_dialog,i_utterance,speaker,utterance
 444,56,7,Ross,"Tell ya, you don't wanna be around when he starts writing with those!"
 445,56,8,Rachel,"Alright, that's it! Give it back! That's it!"
 446,56,9,All,Nooo!
-447,57,0,Monica,"Ok, I don¡¯t wanna be negative so I¡¯ll say that most of the  signs you bought are good."
-448,57,1,Phoebe,"No they ran out of ""It¡¯s a girl"" but I can fix this one,  See?"
+447,57,0,Monica,"Ok, I donâ€™t wanna be negative so Iâ€™ll say that most of the  signs you bought are good."
+448,57,1,Phoebe,"No they ran out of ""Itâ€™s a girl"" but I can fix this one,  See?"
 449,57,2,Monica,So  sexy.  Honey.
 450,57,3,Chandler,Yea yea.
-451,57,4,Monica,Honey why don¡¯t you go lie down.
+451,57,4,Monica,Honey why donâ€™t you go lie down.
 452,57,5,Chandler,"No, no, Ross and Rachel will be back soon and then I gotta  go to the office  Am I producing  them?"
-453,57,6,Joey,Why¡¯re you so tired?
-454,57,7,Chandler,"Couldn¡¯t sleep last night you know, then I started worrying  about this big divisional meeting that I have later today, the more I worried  about it the more I couldn¡¯t sleep."
-455,57,8,Chandler,Y¡¯know?
-456,57,9,Chandler,"I was like, if I fall asleep  now I¡¯ll get six hours sleep, but if I fall asleep now I¡¯ll get five hours  sleep."
-457,57,10,Chandler,Not matter what I did I couldn¡¯t fall asleep.
-458,57,11,Joey,"You know what you should¡¯ve done, you should have told yourself  that little story."
+453,57,6,Joey,Whyâ€™re you so tired?
+454,57,7,Chandler,"Couldnâ€™t sleep last night you know, then I started worrying  about this big divisional meeting that I have later today, the more I worried  about it the more I couldnâ€™t sleep."
+455,57,8,Chandler,Yâ€™know?
+456,57,9,Chandler,"I was like, if I fall asleep  now Iâ€™ll get six hours sleep, but if I fall asleep now Iâ€™ll get five hours  sleep."
+457,57,10,Chandler,Not matter what I did I couldnâ€™t fall asleep.
+458,57,11,Joey,"You know what you shouldâ€™ve done, you should have told yourself  that little story."
 459,57,12,Rachel,Hi!
 460,57,13,Everyone,"Hi, welcome home!"
 461,58,0,Susan,"Oh, please! What's wrong with Helen?"
@@ -669,15 +669,15 @@ id,i_dialog,i_utterance,speaker,utterance
 667,76,1,Rachel,Oh you guys thanks for doing this.
 668,76,2,Phoebe,Look at all the stuff people sent!
 669,76,3,Rachel,Oh Ah!
-670,76,4,Rachel,"Oh my gosh there¡¯s  something every mother needs, a giant stuffed gorilla that takes up the entire  apartment!"
-671,76,5,Rachel,What are people think¡¦  Oh you guys I love it.
-672,76,6,Joey,Hey so where¡¯s Ross?
-673,76,7,Rachel,He¡¯s downstairs getting the rest of the stuff out of the  cab.
+670,76,4,Rachel,"Oh my gosh thereâ€™s  something every mother needs, a giant stuffed gorilla that takes up the entire  apartment!"
+671,76,5,Rachel,What are people thinkâ€¦  Oh you guys I love it.
+672,76,6,Joey,Hey so whereâ€™s Ross?
+673,76,7,Rachel,Heâ€™s downstairs getting the rest of the stuff out of the  cab.
 674,76,8,Joey,Is he still mad at us?
-675,76,9,Rachel,"Well, you more then me, but he can¡¯t stay to mad at me. I  mean, I just had his baby."
-676,76,10,Joey,That¡¯s not fair! I can¡¯t do that.
-677,76,11,Rachel,"Yeah, I¡¯m not so sure you should be here when he comes up."
-678,76,12,Joey,"See this is what I was afraid of, I didn¡¯t think I should be  here either but somebody  said he¡¯d be over it by now."
+675,76,9,Rachel,"Well, you more then me, but he canâ€™t stay to mad at me. I  mean, I just had his baby."
+676,76,10,Joey,Thatâ€™s not fair! I canâ€™t do that.
+677,76,11,Rachel,"Yeah, Iâ€™m not so sure you should be here when he comes up."
+678,76,12,Joey,"See this is what I was afraid of, I didnâ€™t think I should be  here either but somebody  said heâ€™d be over it by now."
 679,76,13,Chandler,"Hey, what do I know? I wanted to get a bigger gorilla."
 680,77,0,Rachel,I cannot believe that you didn?t tell me that we are still married!!
 681,77,1,Ross,Look I was going to tell you!
@@ -1906,7 +1906,7 @@ id,i_dialog,i_utterance,speaker,utterance
 1904,167,12,Ross,And sexy.
 1905,167,13,Phoebe,Ok well give her a chance to see all of that!
 1906,167,14,Ross,"Yeah, you're right, thanks Pheebs, I'm gonna go find her."
-1907,167,15,Ross,Actually umm¡¦
+1907,167,15,Ross,Actually ummâ€¦
 1908,168,0,Phoebe,"?Crazy underwear, creepin? up my butt.  Crazy underwear, always in a rut. Crazy under--wear??"
 1909,168,1,Jason,Hey. I was
 1910,168,2,Joey,Better?
@@ -3233,23 +3233,23 @@ id,i_dialog,i_utterance,speaker,utterance
 3231,237,0,Joey,Hey! Sleeping beauty!
 3232,237,1,Chandler,Where have you been?! I tried to call you! I want to talk to you! I still feel so bad!
 3233,237,2,Joey,"Oh no, were you upset? Did you lose sleep?"
-3234,237,3,Ross,Yeah that¡¯s what she said.
+3234,237,3,Ross,Yeah thatâ€™s what she said.
 3235,237,4,Joey,So?
-3236,237,5,Ross,So I don¡¯t wanna be just anybody.
+3236,237,5,Ross,So I donâ€™t wanna be just anybody.
 3237,237,6,Joey,Wow.
-3238,237,7,Ross,"You know what, it¡¯s, it¡¯s better this way anyway."
-3239,237,8,Ross,"I mean I don¡¯t  know what I was thinking, going down that road again with us."
-3240,237,9,Ross,It¡¯s just much  easier if we¡¯re just friends who have a kid.
+3238,237,7,Ross,"You know what, itâ€™s, itâ€™s better this way anyway."
+3239,237,8,Ross,"I mean I donâ€™t  know what I was thinking, going down that road again with us."
+3240,237,9,Ross,Itâ€™s just much  easier if weâ€™re just friends who have a kid.
 3241,237,10,Joey,Really?
 3242,237,11,Ross,Yeah.
-3243,237,12,Joey,And you¡¯re Okay with that?
+3243,237,12,Joey,And youâ€™re Okay with that?
 3244,237,13,Ross,Yes.
-3245,237,14,Ross,"I mean, it¡¯s what we always planned."
+3245,237,14,Ross,"I mean, itâ€™s what we always planned."
 3246,237,15,Ross,"And if you have  a plan, you should stick to it."
-3247,237,16,Ross,That¡¯s why they call them plans.
+3247,237,16,Ross,Thatâ€™s why they call them plans.
 3248,237,17,Ross,Hello?
-3249,237,18,Ross,I¡¯m fine.
-3250,237,19,Joey,"Hey, for what it¡¯s worth, with Rachel I don¡¯t think you¡¯ll ever  be just  ""anybody."""
+3249,237,18,Ross,Iâ€™m fine.
+3250,237,19,Joey,"Hey, for what itâ€™s worth, with Rachel I donâ€™t think youâ€™ll ever  be just  ""anybody."""
 3251,237,20,Ross,Hey there you go!
 3252,237,21,Joey,"""Thanks."""
 3253,238,0,Malcom,Here's my binoculars.
